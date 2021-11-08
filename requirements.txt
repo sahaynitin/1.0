@@ -7,6 +7,6 @@ Pillow
 https://github.com/prgofficial/pyrogram/archive/refs/heads/asyncio-dev.zip
 requests
 tgcrypto
-youtube_dl
+yt-dlp
 olefile
 newrelic
